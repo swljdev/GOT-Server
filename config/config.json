@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "belithe1234",
+    "database": "gameOfThrones",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgress"
+    
+  },
+  "test": {
+    "username": "postgres",
+    "password": "belithe1234",
+    "database": "gameOfThrones",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+   
+  },
+  "production": {
+    "username": "postgres",
+    "password": "belithe1234",
+    "database": "gameOfThrones",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+   
+  }
+}
